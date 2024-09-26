@@ -1,2 +1,2 @@
 # operating-system-text-editor-
-this feature is one of the new operating demo system
+this feature is designed for  the new operating demo system
